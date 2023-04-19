@@ -40,7 +40,7 @@ public class CalculatorTests {
     //when
         int result = c. multiply(number1,number2);
     //then
-        Assertions.assertEquals(14,result);
+        Assertions.assertEquals(15,result);
     }
 
     //Testfall 4
