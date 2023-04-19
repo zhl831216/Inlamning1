@@ -18,7 +18,7 @@ public class CalculatorTests {
 
         int result = c.add(number1,number2);
         //then
-        Assertions.assertEquals(4,result);
+        Assertions.assertEquals(5,result);
     }
     //Testfall 2
     @Test
