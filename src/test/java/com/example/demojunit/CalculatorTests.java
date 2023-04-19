@@ -29,7 +29,7 @@ public class CalculatorTests {
     //when
         int result = c.subtract(number1, number2);
     //then
-        Assertions.assertEquals(3,result);
+        Assertions.assertEquals(2,result);
     }
     //Testfall 3
     @Test
